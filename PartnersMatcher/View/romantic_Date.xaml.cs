@@ -25,7 +25,7 @@ namespace PartnersMatcher.View
         List<BitmapImage> imgList = new List<BitmapImage>();
         public romantic_Date(NewAd NewAd)
         {
-            m_NewAd = NewAd;
+            m_NewAd = NewAd; // create new add
             InitializeComponent();
             lb_intrestIn.ItemsSource = new List<string>() { "זכר", "נקבה", "אחר" };
             Date.DisplayDateStart = DateTime.Today;

@@ -94,3 +94,6 @@ C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\trip.ba
 C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.g.resources
 C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.Properties.Resources.resources
 C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csproj.GenerateResource.Cache
+C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
