@@ -1,0 +1,27 @@
+﻿<Window x:Class="PartnersMatcher.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PartnersMatcher.View"
+        mc:Ignorable="d"
+      Title="MainWindow" Height="451.5" Width="751.5" Closing ="Window_Closing">
+    <Grid Margin="0,0,-8,-2">
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="205,131,0,0" FontSize="18" Width="105"><Run FlowDirection="RightToLeft" Text="שם משתמש"/></TextBlock>
+        <TextBox x:Name="tb_userName" HorizontalAlignment="Left" Height="26" Margin="74,155,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229"/>
+
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="56" Margin="216,14,0,0" TextWrapping="Wrap" Text="PartnersMatcher" VerticalAlignment="Top" Width="307" FontSize="40"/>
+        <TextBlock x:Name="textBlock11" HorizontalAlignment="Left" Height="26" Margin="370,60,0,0" TextWrapping="Wrap" Text="By Mor, Ran, Adi and Hila" VerticalAlignment="Top" Width="182" FontSize="13"/>
+
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="250,195,0,0" FontSize="18"><Run FlowDirection="RightToLeft" Text="סיסמה"/></TextBlock>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="229" Margin="74,223,0,0"/>
+        <Button x:Name="connect" Content="התחבר" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="214,289,0,0" Height="30" Click="connect_Click"/>
+        <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="177,289,0,0" FontSize="20"><Run FlowDirection="RightToLeft" Text="או"/></TextBlock>
+        <Button x:Name="register" Content="הרשם" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="72,289,0,0" Height="30" Click="register_Click"/>
+        <TextBlock x:Name="textBlockConnect" HorizontalAlignment="Left" Margin="421,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" Width="303" FontSize="17.333"><Run FlowDirection="RightToLeft" Text="אנא התחבר למערכת על מנת להתחיל,"/></TextBlock>
+        <Button x:Name="Searchbtn" Content="חיפוש מודעות" HorizontalAlignment="Left" Margin="532,145,0,0" VerticalAlignment="Top" Width="174" Height="41" FontSize="14.667" Click="Searchbtn_Click"/>
+        <Button x:Name="NewAdbtn" Content="הוספת מודעה חדשה" HorizontalAlignment="Left" Margin="532,216,0,0" VerticalAlignment="Top" Width="174" Height="41" FontSize="14.667" Click="NewAdbtn_Click"/>
+        <Button x:Name="RequestManagebtn" Content="ניהול בקשות הצטרפות" HorizontalAlignment="Left" Margin="532,286,0,0" VerticalAlignment="Top" Width="174" Height="41" FontSize="14.667" Click="RequestManagebtn_Click"/>
+        <Button x:Name="NewPaymentbtn" Content="הוספת תשלום חדש" HorizontalAlignment="Left" Margin="532,352,0,0" VerticalAlignment="Top" Width="174" Height="42" FontSize="14.667" Click="NewPaymentbtn_Click"/>
+    </Grid>
+</Window>

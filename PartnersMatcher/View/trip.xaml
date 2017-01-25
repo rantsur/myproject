@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="PartnersMatcher.View.trip"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PartnersMatcher.View"
+             mc:Ignorable="d" 
+   d:DesignHeight="540" d:DesignWidth="1100">
+    <Grid Background="White">
+
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="615,209,0,0" FontSize="18" Width="128"><Run FlowDirection="RightToLeft" Text="מחיר למשתתף"/></TextBlock>
+        <TextBox x:Name="tb_cost" HorizontalAlignment="Left" Height="25" Margin="505,239,0,0"  VerticalAlignment="Top" Width="229"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="578,280,0,0" FontSize="18" Width="167"><Run FlowDirection="RightToLeft" Text="מספר שותפים נדרש"/></TextBlock>
+        <TextBox x:Name="tb_numberOfpartners" HorizontalAlignment="Left" Height="25" Margin="505,309,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" KeyboardNavigation.TabNavigation="None"/>
+
+        <TextBlock x:Name="textBlock1_Copy7" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="1015,72,0,0" FontSize="18" Width="54"><Run FlowDirection="RightToLeft" Text="מיקום"/></TextBlock>
+        <TextBox x:Name="tb_place" HorizontalAlignment="Left" Height="24" Margin="880,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189"/>
+
+        <TextBlock x:Name="textBlock1_Copy9" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="615,72,0,0" FontSize="18" Width="121"><Span FlowDirection="RightToLeft"><Run Text="תאריך "/><Run Text="התחלה"/></Span></TextBlock>
+        <DatePicker Name="startDate" SelectedDateChanged="startDate_SelectedDateChanged" HorizontalAlignment="Left" Width="190" Height="26" Margin="544,101,0,0" VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="textBlock1_Copy10" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="640,138,0,0" FontSize="18" Width="95"><Span FlowDirection="RightToLeft"><Run Text="תאריך "/><Run Text="סיום"/></Span></TextBlock>
+        <DatePicker Name="finishDate" SelectedDateChanged="finishDate_SelectedDateChanged"  HorizontalAlignment="Left" Width="190" Height="26" Margin="544,165,0,0" VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="textBlock1_Copy13" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="651,350,0,0" FontSize="18" Width="90"><Run FlowDirection="RightToLeft" Text="רמת קושי"/></TextBlock>
+        <ComboBox x:Name="lb_diffiLevel" HorizontalAlignment="Left" Height="26" Margin="506,379,0,0" VerticalAlignment="Top" Width="228"/>
+
+        <TextBlock x:Name="textBlock1_Copy14" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="205,77,0,0" FontSize="18" Width="190"><Span FlowDirection="RightToLeft"><Run Text="תיאור כללי של הטיול"/><Run Text="..."/></Span></TextBlock>
+        <TextBox x:Name="tb_general" HorizontalAlignment="Left" Height="245" Margin="29,114,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="366"/>
+        <Button x:Name="addPhotos" Content="הוסף תמונות למודעה" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="188,380,0,0" Height="39" Click="addPhotos_Click"/>
+
+        <Button x:Name="createNewAd" Content="פרסם" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="29,436,0,0" Height="29" Click="createNewAd_Click" />
+        <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="979,136,0,0" FontSize="18" Width="93" RenderTransformOrigin="2.954,1.404" Height="44"><Run FlowDirection="RightToLeft" Text="הוסף שותף"/></TextBlock>
+        <TextBox x:Name="tb_partner" HorizontalAlignment="Left" Height="25" Margin="947,163,0,0" VerticalAlignment="Top" Width="122"/>
+        <TextBlock x:Name="textBlock1_Copy2" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="926,210,0,0" FontSize="18" Width="164" Height="45"><Run FlowDirection="RightToLeft" Text="השותפים במודעה"/></TextBlock>
+        <ListBox x:Name="tb_partnersList" HorizontalAlignment="Left" Height="167" Margin="791,239,0,0" VerticalAlignment="Top" Width="281"/>
+        <Button x:Name="addNewPartner" Content="הוסף" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="842,160,0,0" Height="29" Click="addNewPartner_Click"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,96 @@
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.g.cs
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.g.cs
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.g.cs
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\App.g.cs
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.cache
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.lref
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.baml
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.baml
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.baml
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.g.resources
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.Properties.Resources.resources
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csproj.GenerateResource.Cache
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+c:\users\adi ozeri\documents\visual studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.g.cs
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.g.cs
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.g.cs
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.baml
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.baml
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.baml
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.g.cs
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.g.cs
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.baml
+C:\Users\Adi Ozeri\Documents\Visual Studio 2015\Projects\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\App.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.cache
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.lref
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.g.resources
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.Properties.Resources.resources
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csproj.GenerateResource.Cache
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\romantic_Date.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\sport.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\trip.g.cs
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\romantic_Date.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\sport.baml
+C:\Users\mortzubery\Documents\שנה ג\ניתוצ\מאוחד\PartnersMatcher\PartnersMatcher\obj\Debug\View\trip.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\romantic_Date.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\sport.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\trip.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\App.g.cs
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.cache
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher_MarkupCompile.lref
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\accommodation.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\MainWindow.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewAd.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\NewPayment.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\openRequest.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\RegisterWindow.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\RequestManagement.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\romantic_Date.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\Search.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\sport.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\View\trip.baml
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.g.resources
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.Properties.Resources.resources
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csproj.GenerateResource.Cache
