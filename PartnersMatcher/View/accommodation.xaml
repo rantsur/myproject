@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="PartnersMatcher.View.accommodation"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PartnersMatcher.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="540" d:DesignWidth="1100">
+    <Grid Background="White" Margin="4,0,-4,0" >
+        <DatePicker x:Name="Date" Margin="490,299,480,241" FirstDayOfWeek="Sunday"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="967,53,0,0" FontSize="18" Width="128"><Run FlowDirection="RightToLeft" Text="מחיר השכירות"/></TextBlock>
+        <TextBox x:Name="tb_numberOfUsers" HorizontalAlignment="Left" Height="25" Margin="860,154,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" KeyboardNavigation.TabNavigation="None"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="939,121,0,0" FontSize="18" Width="167"><Span FlowDirection="RightToLeft"><Run Text="מספר "/><Run Text="חדרים "/><Run Text="בדירה"/></Span></TextBlock>
+        <TextBox x:Name="tb_cost" HorizontalAlignment="Left" Height="25" Margin="860,88,0,0"  VerticalAlignment="Top" Width="229"/>
+        <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="996,259,0,0" FontSize="18" Width="93" RenderTransformOrigin="2.954,1.404" Height="44"><Run FlowDirection="RightToLeft" Text="הוסף שותף"/></TextBlock>
+        <TextBox x:Name="tb_partner" HorizontalAlignment="Left" Height="25" Margin="965,291,0,0" VerticalAlignment="Top" Width="122"/>
+        <TextBlock x:Name="textBlock1_Copy2" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="959,325,0,0" FontSize="18" Width="131"><Run FlowDirection="RightToLeft" Text="השותפים בדירה"/></TextBlock>
+        <ListBox x:Name="tb_partnersList" HorizontalAlignment="Left" Height="146" Margin="803,363,0,0" VerticalAlignment="Top" Width="281"/>
+        <TextBox x:Name="tb_address" HorizontalAlignment="Left" Height="25" Margin="396,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229"/>
+        <TextBlock x:Name="lll" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Bottom" Margin="721,0,0,562" FontSize="18" Width="150" Height="54" RenderTransformOrigin="0.533,1.185"><Span FlowDirection="RightToLeft"><Run Text="כתובת "/><Run Text="הדירה"/></Span></TextBlock>
+        <TextBlock x:Name="textBlock1_Copy7" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="739,69,0,0" FontSize="18" Width="35"><Run FlowDirection="RightToLeft" Text="עיר"/></TextBlock>
+        <TextBox x:Name="tb_city" HorizontalAlignment="Left" Height="24" Margin="539,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189"/>
+        <TextBlock x:Name="textBlock1_Copy8" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="640,105,0,0" FontSize="18" Width="134"><Run FlowDirection="RightToLeft" Text="רחוב ומספר בית"/></TextBlock>
+        <TextBlock x:Name="textBlock1_Copy9" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="566,266,0,0" FontSize="18" Width="154"><Span FlowDirection="RightToLeft"><Run Text="תאריך "/><Run Text="כניסה לדירה"/></Span></TextBlock>
+        <ComboBox x:Name="lb_furniture" HorizontalAlignment="Left" Height="26" Margin="491,366,0,0" VerticalAlignment="Top" Width="228"/>
+        <CheckBox x:Name="cb_smoke" Content="מעשנים" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" Margin="635,158,0,0"/>
+        <TextBlock x:Name="textBlock1_Copy13" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="226,48,0,0" FontSize="18" Width="90"><Run FlowDirection="RightToLeft" Text="מצב הדירה"/></TextBlock>
+        <ComboBox x:Name="lb_condition" HorizontalAlignment="Left" Height="26" Margin="79,87,0,0" VerticalAlignment="Top" Width="228"/>
+        <TextBlock x:Name="textBlock1_Copy14" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="126,137,0,0" FontSize="18" Width="190"><Span FlowDirection="RightToLeft"><Run Text="תיאור כללי של הדירה"/><Run Text="..."/></Span></TextBlock>
+        <TextBox x:Name="tb_general" HorizontalAlignment="Left" Height="202" Margin="22,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="294"/>
+        <Button x:Name="createNewAd" Content="פרסם" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="22,466,0,0" Height="30" Click="createNewAd_Click"/>
+        <CheckBox x:Name="cb_elvator" Content="מעלית" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" Margin="532,158,0,0"/>
+        <Button x:Name="addPhotos" Content="הוסף תמונות של הדירה" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="126,394,0,0" Height="39" Click="addPhotos_Click"/>
+        <Button x:Name="addNewPartner" Content="הוסף" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="853,291,0,0" Height="29" Click="addNewPartner_Click"/>
+        <TextBox x:Name="tb_size" HorizontalAlignment="Left" Height="25" Margin="491,229,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229"/>
+        <TextBlock x:Name="textBlock1_Copy3" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="632,197,0,0" FontSize="18" Width="94"><Run FlowDirection="RightToLeft" Text="גודל הדירה"/></TextBlock>
+        <TextBlock x:Name="textBlock1_Copy4" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="626,330,0,0" FontSize="18" Width="110" Height="24"><Run FlowDirection="RightToLeft" Text="ריהוט בדירה"/></TextBlock>
+        <TextBox x:Name="tb_numberOfUsers_Copy" HorizontalAlignment="Left" Height="25" Margin="860,222,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="229" KeyboardNavigation.TabNavigation="None"/>
+        <TextBlock x:Name="textBlock1_Copy5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="912,191,0,0" FontSize="18" Width="181" RenderTransformOrigin="0.5,0.5" Height="25" Text="מספר שותפים נדרשים"/>
+    </Grid>
+</UserControl>
