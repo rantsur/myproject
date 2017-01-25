@@ -42,7 +42,7 @@ namespace PartnersMatcher.View
         private void textBox_content_TextChanged(object sender, TextChangedEventArgs e)
         {
             int numberOfCharsTyped = textBox_content.Text.Count();
-            if (numberOfCharsTyped > 70)
+            if (numberOfCharsTyped > 70)// check the length of the content
             {
                 m_controller.message("תוכן הבקשה מוגבל לעד 70 תווים");
                 textBox_content.Text = textBox_content.Text.Substring(0, 69);

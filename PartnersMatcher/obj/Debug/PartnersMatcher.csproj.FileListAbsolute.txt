@@ -100,3 +100,6 @@ C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
 C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
 =======
 >>>>>>> f9282812965aaf7fcc76ddb177e74d2d37077175
+C:\Users\mortzubery\myproject\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\mortzubery\myproject\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\mortzubery\myproject\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
