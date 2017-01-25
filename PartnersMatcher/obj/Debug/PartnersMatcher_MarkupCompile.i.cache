@@ -4,17 +4,29 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\obj\Debug\
+=======
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\obj\Debug\
+>>>>>>> f9282812965aaf7fcc76ddb177e74d2d37077175
 PartnersMatcher
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Ran Tsur\PartnersMatcher\PartnersMatcher\App.xaml
+=======
+C:\Users\Ran Tsur\Desktop\PartnersMatcher\PartnersMatcher\App.xaml
+>>>>>>> f9282812965aaf7fcc76ddb177e74d2d37077175
 11-1965976665
 
 32273344991
 13-1142990016
 View\accommodation.xaml;View\MainWindow.xaml;View\NewAd.xaml;View\NewPayment.xaml;View\openRequest.xaml;View\RegisterWindow.xaml;View\RequestManagement.xaml;View\romantic_Date.xaml;View\Search.xaml;View\sport.xaml;View\trip.xaml;
 
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> f9282812965aaf7fcc76ddb177e74d2d37077175
 
